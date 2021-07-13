@@ -1,0 +1,1217 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.1083; Version 2004; 64bit' Language: 'en' Physical Memory: 16343 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Jeffl/Downloads/help
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60096
+Successfully changed project path to: C:/Users/Jeffl/Downloads/help
+C:/Users/Jeffl/Downloads/help
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 77.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Jeffl/Downloads/help/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56608
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002578 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 69.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.305 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007192 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.207 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.4 MB.
+System memory in use after: 78.5 MB.
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2202.
+Total: 2.036100 ms (FindLiveObjects: 0.178800 ms CreateObjectMapping: 0.070600 ms MarkObjects: 1.757300 ms  DeleteObjects: 0.028100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Creator Kit - RPG/Art
+  artifactKey: Guid(3f997c216393145e0a5f22a43a0da0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art using Guid(3f997c216393145e0a5f22a43a0da0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d09695b545ff249feb13e73141b8000') in 0.011986 seconds
+  Import took 0.014782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Creator Kit - RPG/Art/TileMapPalettes/Line Brush.asset
+  artifactKey: Guid(88a229bcb49b14276b7179f46cec694d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/TileMapPalettes/Line Brush.asset using Guid(88a229bcb49b14276b7179f46cec694d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc0e4634b4e3ed9acf6b66a3a6cda32') in 0.045398 seconds
+  Import took 0.048104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Creator Kit - RPG/Art/TileMapPalettes
+  artifactKey: Guid(23f2ccd2d725d4c36aeae0df050dd398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/TileMapPalettes using Guid(23f2ccd2d725d4c36aeae0df050dd398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e240f20e6806099d3ab57c31de9efe5') in 0.006832 seconds
+  Import took 0.009493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.609551 seconds.
+  path: Assets/Creator Kit - RPG/Art/Asse.cs
+  artifactKey: Guid(38fa04a853a13f74496558b54da828e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Asse.cs using Guid(38fa04a853a13f74496558b54da828e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5990f1f79cead9d3b2d622c70216f2ec') in 0.016992 seconds
+  Import took 0.020878 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006617 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.208 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.0 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2205.
+Total: 2.151300 ms (FindLiveObjects: 0.177700 ms CreateObjectMapping: 0.073100 ms MarkObjects: 1.869700 ms  DeleteObjects: 0.029700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.516229 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets
+  artifactKey: Guid(c5f1575f6e9865a40b22877037b08428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets using Guid(c5f1575f6e9865a40b22877037b08428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a05a6518ddeb9a58b02c15e44d9c3e') in 0.010552 seconds
+  Import took 0.013868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006451 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets
+  artifactKey: Guid(c5f1575f6e9865a40b22877037b08428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets using Guid(c5f1575f6e9865a40b22877037b08428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a05a6518ddeb9a58b02c15e44d9c3e') in 0.002923 seconds
+  Import took 0.006515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.235897 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/tilemap1(ps100x100).png
+  artifactKey: Guid(8c92d1f3de8448f4d97adb91e671f7e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/tilemap1(ps100x100).png using Guid(8c92d1f3de8448f4d97adb91e671f7e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0fb92a321a320d9634184ff39a34a8') in 0.092830 seconds
+  Import took 0.096418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.910034 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/tilemap2(ps 100x100).png
+  artifactKey: Guid(f50aaf4367b91e94eb5cbee333c366b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/tilemap2(ps 100x100).png using Guid(f50aaf4367b91e94eb5cbee333c366b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b5eb49b395605a9877f209cb56a946b') in 0.015305 seconds
+  Import took 0.020341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/tilemap2(ps 100x100).png
+  artifactKey: Guid(f50aaf4367b91e94eb5cbee333c366b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/tilemap2(ps 100x100).png using Guid(f50aaf4367b91e94eb5cbee333c366b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b5eb49b395605a9877f209cb56a946b') in 0.009599 seconds
+  Import took 0.013161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.136671 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/water(ps 100x100).png
+  artifactKey: Guid(2e72e7d8dcb351144825267e81c34927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/water(ps 100x100).png using Guid(2e72e7d8dcb351144825267e81c34927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abb8e5f402ec190bad116ba96706d886') in 0.014715 seconds
+  Import took 0.018388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001474 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/water(ps 100x100).png
+  artifactKey: Guid(2e72e7d8dcb351144825267e81c34927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/water(ps 100x100).png using Guid(2e72e7d8dcb351144825267e81c34927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abb8e5f402ec190bad116ba96706d886') in 0.010044 seconds
+  Import took 0.014492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.079640 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/fence1(ps 96x96).png
+  artifactKey: Guid(5f8794e9518930945a9c6c3b82dd402c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/fence1(ps 96x96).png using Guid(5f8794e9518930945a9c6c3b82dd402c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e09377d45946e10b1aae6359b1a2242') in 0.019215 seconds
+  Import took 0.022974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004899 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/fence1(ps 96x96).png
+  artifactKey: Guid(5f8794e9518930945a9c6c3b82dd402c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/fence1(ps 96x96).png using Guid(5f8794e9518930945a9c6c3b82dd402c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e09377d45946e10b1aae6359b1a2242') in 0.010451 seconds
+  Import took 0.013812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.945743 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/crawlerhouse1(ps 96x96).png
+  artifactKey: Guid(1058c1e548c43e041875d5027c20a021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/crawlerhouse1(ps 96x96).png using Guid(1058c1e548c43e041875d5027c20a021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c22f6a5f7d033cbd4d4e7db3aa66332c') in 0.015929 seconds
+  Import took 0.019524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003640 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/crawlerhouse1(ps 96x96).png
+  artifactKey: Guid(1058c1e548c43e041875d5027c20a021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/crawlerhouse1(ps 96x96).png using Guid(1058c1e548c43e041875d5027c20a021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c22f6a5f7d033cbd4d4e7db3aa66332c') in 0.011135 seconds
+  Import took 0.014519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.904838 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/BipedalHouse.png
+  artifactKey: Guid(24b6a46637fec4e4a87e03c74ebe293a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/BipedalHouse.png using Guid(24b6a46637fec4e4a87e03c74ebe293a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a69aa7d9d4b5d6b84f1d9318329916e') in 0.021571 seconds
+  Import took 0.025160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.673821 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/crawler1.png
+  artifactKey: Guid(4b52d19590154874ba392765aa59d55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/crawler1.png using Guid(4b52d19590154874ba392765aa59d55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2523ec87614bb30295c994e8e54aa8b8') in 0.031989 seconds
+  Import took 0.035428 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006612 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.230 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.1 MB.
+System memory in use after: 80.3 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2218.
+Total: 2.339400 ms (FindLiveObjects: 0.171900 ms CreateObjectMapping: 0.069000 ms MarkObjects: 2.057600 ms  DeleteObjects: 0.039600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008538 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.241 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.2 MB.
+System memory in use after: 80.3 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2221.
+Total: 2.063600 ms (FindLiveObjects: 0.176100 ms CreateObjectMapping: 0.069600 ms MarkObjects: 1.794600 ms  DeleteObjects: 0.021500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1328.761584 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Environment/Items.png
+  artifactKey: Guid(a4dbce958f01af8489942a973bfe20c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Environment/Items.png using Guid(a4dbce958f01af8489942a973bfe20c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad5d4eb18004db4f6d1dca7c09c46f8') in 0.092620 seconds
+  Import took 0.096840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_HighGrass_Sheet.png
+  artifactKey: Guid(41a5838cb902bfa43b3d51f653cd804a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Animated_HighGrass_Sheet.png using Guid(41a5838cb902bfa43b3d51f653cd804a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad22484a616c16a1bf05b1a1cece4bf') in 0.159695 seconds
+  Import took 0.163161 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006823 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.195 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.2 MB.
+System memory in use after: 80.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2246.
+Total: 2.220300 ms (FindLiveObjects: 0.189800 ms CreateObjectMapping: 0.072300 ms MarkObjects: 1.924600 ms  DeleteObjects: 0.032300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1090.800616 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/crawlerhsetile(ps100x100).png
+  artifactKey: Guid(b0c6af9329af7c040bd13db80b1c555c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/crawlerhsetile(ps100x100).png using Guid(b0c6af9329af7c040bd13db80b1c555c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd96f8b95f66a5f6da16d5ffb65f8fe') in 0.065905 seconds
+  Import took 0.069665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 178.589434 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/crawlerhouse1(ps 96x96) 1.png
+  artifactKey: Guid(7ee12b7d36209174fa60aed4e41b9a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/crawlerhouse1(ps 96x96) 1.png using Guid(7ee12b7d36209174fa60aed4e41b9a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '607adb072f9df954bed66ee39139ce51') in 0.017163 seconds
+  Import took 0.020599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001583 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/crawlerhouse1(ps 96x96) 1.png
+  artifactKey: Guid(7ee12b7d36209174fa60aed4e41b9a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/crawlerhouse1(ps 96x96) 1.png using Guid(7ee12b7d36209174fa60aed4e41b9a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '607adb072f9df954bed66ee39139ce51') in 0.016212 seconds
+  Import took 0.019459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.341613 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/crawlerhouse1(ps 496x496).png
+  artifactKey: Guid(4aeb3602e2f24cb4793b7f650aec8a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/crawlerhouse1(ps 496x496).png using Guid(4aeb3602e2f24cb4793b7f650aec8a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b643efc5dfc01c920faa2190590f930') in 0.018639 seconds
+  Import took 0.021904 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006844 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.197 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.3 MB.
+System memory in use after: 80.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 2.162300 ms (FindLiveObjects: 0.187300 ms CreateObjectMapping: 0.070000 ms MarkObjects: 1.881100 ms  DeleteObjects: 0.022700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006761 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.232 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.3 MB.
+System memory in use after: 80.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2253.
+Total: 2.164900 ms (FindLiveObjects: 0.176300 ms CreateObjectMapping: 0.070700 ms MarkObjects: 1.890300 ms  DeleteObjects: 0.026300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 907.269824 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Archer-Override.overrideController
+  artifactKey: Guid(7ee3425d802434ff69fadaff765bcb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Archer-Override.overrideController using Guid(7ee3425d802434ff69fadaff765bcb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bf9c88903be9290f038415d051c9619') in 0.029410 seconds
+  Import took 0.033137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Thief-Override.overrideController
+  artifactKey: Guid(7bfb43d7068f94aff8f20e9a7916bee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Thief-Override.overrideController using Guid(7bfb43d7068f94aff8f20e9a7916bee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f24c354eecc5d234e3d1c75a478740b') in 0.014795 seconds
+  Import took 0.017928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Creator Kit - RPG/Art/Animators/Warrior-Override.overrideController
+  artifactKey: Guid(3caa1e5e0e6c343d69793b2b5dd95939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Animators/Warrior-Override.overrideController using Guid(3caa1e5e0e6c343d69793b2b5dd95939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d2fbe42558c3992636a89518b8006c') in 0.015343 seconds
+  Import took 0.018844 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006515 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.197 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.3 MB.
+System memory in use after: 80.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2256.
+Total: 2.086300 ms (FindLiveObjects: 0.174200 ms CreateObjectMapping: 0.070700 ms MarkObjects: 1.818200 ms  DeleteObjects: 0.021800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007163 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.350 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.3 MB.
+System memory in use after: 80.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2259.
+Total: 2.316500 ms (FindLiveObjects: 0.172200 ms CreateObjectMapping: 0.065900 ms MarkObjects: 2.034000 ms  DeleteObjects: 0.043000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1341.869760 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(3a16401310e30de43a027bef3cb38de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/NewBehaviourScript.cs using Guid(3a16401310e30de43a027bef3cb38de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49326746be899310e829a98867243587') in 0.012273 seconds
+  Import took 0.016200 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006653 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.242 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.3 MB.
+System memory in use after: 80.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2262.
+Total: 2.312100 ms (FindLiveObjects: 0.159200 ms CreateObjectMapping: 0.065700 ms MarkObjects: 2.045500 ms  DeleteObjects: 0.040400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.806617 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/Inventory
+  artifactKey: Guid(d622b7e71fcc97d4cb510ee678911189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/Inventory using Guid(d622b7e71fcc97d4cb510ee678911189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca572c03eba2c7709b316e8f6d567590') in 0.009371 seconds
+  Import took 0.012619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006015 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/Inventory
+  artifactKey: Guid(d622b7e71fcc97d4cb510ee678911189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/Inventory using Guid(d622b7e71fcc97d4cb510ee678911189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca572c03eba2c7709b316e8f6d567590') in 0.002746 seconds
+  Import took 0.006080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.657284 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/Inventory/Policy.cs
+  artifactKey: Guid(a223e4ed459c3ab49a3ce578c5f8bc7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/Inventory/Policy.cs using Guid(a223e4ed459c3ab49a3ce578c5f8bc7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6efb945873373b79861dfb8d06078fa') in 0.010816 seconds
+  Import took 0.016246 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006683 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.194 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.3 MB.
+System memory in use after: 80.5 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2266.
+Total: 2.144800 ms (FindLiveObjects: 0.174500 ms CreateObjectMapping: 0.068500 ms MarkObjects: 1.868000 ms  DeleteObjects: 0.032400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 223.308323 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/Inventory/Policy.cs
+  artifactKey: Guid(a223e4ed459c3ab49a3ce578c5f8bc7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/Inventory/Policy.cs using Guid(a223e4ed459c3ab49a3ce578c5f8bc7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b30d3c80d9ec73ebaea17b2970edbaa2') in 0.007210 seconds
+  Import took 0.011596 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008154 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.223 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.3 MB.
+System memory in use after: 80.5 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2269.
+Total: 2.138800 ms (FindLiveObjects: 0.220400 ms CreateObjectMapping: 0.078200 ms MarkObjects: 1.813500 ms  DeleteObjects: 0.025300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.960109 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/Inventory/Policy.cs
+  artifactKey: Guid(a223e4ed459c3ab49a3ce578c5f8bc7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/Inventory/Policy.cs using Guid(a223e4ed459c3ab49a3ce578c5f8bc7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28874a40df01da490e8f5ce459dfbc7a') in 0.005923 seconds
+  Import took 0.009212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.927311 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/Gameplay
+  artifactKey: Guid(467f3f1700f104bdca1c78420950c919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/Gameplay using Guid(467f3f1700f104bdca1c78420950c919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7529aa0f013c1b52716c95f9655cbd03') in 0.007805 seconds
+  Import took 0.012518 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007283 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.425 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.4 MB.
+System memory in use after: 80.5 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2272.
+Total: 2.787400 ms (FindLiveObjects: 0.205800 ms CreateObjectMapping: 0.075500 ms MarkObjects: 2.472600 ms  DeleteObjects: 0.031500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006964 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.193 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.4 MB.
+System memory in use after: 80.5 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2275.
+Total: 2.026300 ms (FindLiveObjects: 0.178600 ms CreateObjectMapping: 0.067500 ms MarkObjects: 1.750400 ms  DeleteObjects: 0.028500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006782 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.203 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.4 MB.
+System memory in use after: 80.5 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2278.
+Total: 2.560500 ms (FindLiveObjects: 0.232900 ms CreateObjectMapping: 0.128300 ms MarkObjects: 2.170200 ms  DeleteObjects: 0.027900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 711.974132 seconds.
+  path: Assets/Creator Kit - RPG/Art/Assets/Policy.png
+  artifactKey: Guid(daabbfacf6dba834a96e6b9d1546b198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Art/Assets/Policy.png using Guid(daabbfacf6dba834a96e6b9d1546b198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e363ead446c3a40d439a91fbea5e6c7a') in 0.073206 seconds
+  Import took 0.077062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.418346 seconds.
+  path: Assets/Creator Kit - RPG/Audio/AudioMixer.mixer
+  artifactKey: Guid(757bde2b477994d60bfff9141343ce02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/AudioMixer.mixer using Guid(757bde2b477994d60bfff9141343ce02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a66321792e908b94c5c6837e88fa8452') in 0.013927 seconds
+  Import took 0.017880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Creator Kit - RPG/Audio/BGM_Item.ogg
+  artifactKey: Guid(d617102f0067466459a5a73c418501e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/BGM_Item.ogg using Guid(d617102f0067466459a5a73c418501e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b11e4ca5dfe8bbf8b24d1bf4a485e47') in 0.094433 seconds
+  Import took 0.099069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_InsideFootstep01.ogg
+  artifactKey: Guid(d43c5e96d9cfe9b478c8fef306d1c418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_InsideFootstep01.ogg using Guid(d43c5e96d9cfe9b478c8fef306d1c418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb8d9d44707ec30b6f29d82d7f81fed') in 0.028261 seconds
+  Import took 0.031594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_InsideFootstep02.ogg
+  artifactKey: Guid(bca5cb7c53133a04b863789ab7145691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_InsideFootstep02.ogg using Guid(bca5cb7c53133a04b863789ab7145691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b691e8234fa7b2fa8ab94c7590abdef') in 0.022214 seconds
+  Import took 0.025226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_GrassFootstep01.ogg
+  artifactKey: Guid(b9f95e88528322d45ab468493fda9ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_GrassFootstep01.ogg using Guid(b9f95e88528322d45ab468493fda9ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c124fda217c4a68df772a212353331a') in 0.016643 seconds
+  Import took 0.019693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_SandFootstep03.ogg
+  artifactKey: Guid(09d8499c275f57b4f92d20f3dd046823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_SandFootstep03.ogg using Guid(09d8499c275f57b4f92d20f3dd046823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d817bb43b5f8cb4bf904b0f936beb68') in 0.023800 seconds
+  Import took 0.027319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_UINegative.ogg
+  artifactKey: Guid(33479c043d2e80542bcff1bba0d7aa86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_UINegative.ogg using Guid(33479c043d2e80542bcff1bba0d7aa86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1acb6d6214eaea3402335439d1ad5d6d') in 0.025454 seconds
+  Import took 0.029414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_UIConfirm.ogg
+  artifactKey: Guid(4352d1e8bbb9cb442bb61f248d9f4cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_UIConfirm.ogg using Guid(4352d1e8bbb9cb442bb61f248d9f4cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6c2a7c006ce0e87c4bd381b06a4abb8') in 0.022160 seconds
+  Import took 0.025703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_Voice01_08.ogg
+  artifactKey: Guid(ce8cc5626c5d7274aa7d1f7c03746429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_Voice01_08.ogg using Guid(ce8cc5626c5d7274aa7d1f7c03746429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d60e1b65ddc8b0669672001ea059fed') in 0.017626 seconds
+  Import took 0.020528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_Voice01_07.ogg
+  artifactKey: Guid(5dc6e903aa825574bb02ea7d176e23ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_Voice01_07.ogg using Guid(5dc6e903aa825574bb02ea7d176e23ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '092101a39a76f6f6a643dadded3dc2b9') in 0.017755 seconds
+  Import took 0.021846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_SandFootstep01.ogg
+  artifactKey: Guid(2e131117516c68c42a9eec1e25253e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_SandFootstep01.ogg using Guid(2e131117516c68c42a9eec1e25253e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02408b9ff51e56e9f698c2d91a7d256f') in 0.023817 seconds
+  Import took 0.027611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Creator Kit - RPG/Audio/BGM_QuestComplete.ogg
+  artifactKey: Guid(93850243ac83fbf4597b770e9f05bb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/BGM_QuestComplete.ogg using Guid(93850243ac83fbf4597b770e9f05bb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3bc705e6fc27e558a2e780a3cb1e326') in 0.022479 seconds
+  Import took 0.026628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_UINavigate.ogg
+  artifactKey: Guid(b9464d87cce98664b9bc8ebd54f6a769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_UINavigate.ogg using Guid(b9464d87cce98664b9bc8ebd54f6a769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '478c840eb5a27298ef0eb72714f4560e') in 0.021794 seconds
+  Import took 0.025800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_SandFootstep02.ogg
+  artifactKey: Guid(f662c7666af885b429024de463095609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_SandFootstep02.ogg using Guid(f662c7666af885b429024de463095609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ea046b43aae8b7deb584371b462c69') in 0.023354 seconds
+  Import took 0.026826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_Voice01_02.ogg
+  artifactKey: Guid(8f654c94c7f51274bbd91f149809a23a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_Voice01_02.ogg using Guid(8f654c94c7f51274bbd91f149809a23a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '860fd58c08dc8df4117e14c4cf227b8f') in 0.016311 seconds
+  Import took 0.019299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_GrassFootstep03.ogg
+  artifactKey: Guid(8c2653fdb3b7ed14b81e093ec9edf966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_GrassFootstep03.ogg using Guid(8c2653fdb3b7ed14b81e093ec9edf966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aec97ee14ae5824ae9818fa9b1bfdcf1') in 0.016253 seconds
+  Import took 0.019833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_Voice01_06.ogg
+  artifactKey: Guid(9db5b541c35f0ff41bac242c05a5d9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_Voice01_06.ogg using Guid(9db5b541c35f0ff41bac242c05a5d9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd87a9563cfd5d604faa0ef7dca6e7986') in 0.015153 seconds
+  Import took 0.018360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_Voice01_05.ogg
+  artifactKey: Guid(87596260a905cb54f8a948b92464555c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_Voice01_05.ogg using Guid(87596260a905cb54f8a948b92464555c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc58e90d86f32129fe4d27e93d79a14d') in 0.015526 seconds
+  Import took 0.018530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Creator Kit - RPG/Audio/BGM_PixelRPG.ogg
+  artifactKey: Guid(c6b1e4491dcc9de4dad8102c76c2b05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/BGM_PixelRPG.ogg using Guid(c6b1e4491dcc9de4dad8102c76c2b05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f980c19b1fb6694d033075b711bf37a6') in 0.017797 seconds
+  Import took 0.021441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_Voice01_01.ogg
+  artifactKey: Guid(c12c9679a9c033a49bc4d8dc1d66eafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_Voice01_01.ogg using Guid(c12c9679a9c033a49bc4d8dc1d66eafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1518dc0bf6522f9dc35e04dfa0e663') in 0.018723 seconds
+  Import took 0.022240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_GrassFootstep02.ogg
+  artifactKey: Guid(354e3255e5315484d92e71b81aea53e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_GrassFootstep02.ogg using Guid(354e3255e5315484d92e71b81aea53e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd040cad04a65930cefa11f49d18cda4b') in 0.015404 seconds
+  Import took 0.019486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_Voice01_04.ogg
+  artifactKey: Guid(afc52bfa55fd3234fb1fc60b7d5f549a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_Voice01_04.ogg using Guid(afc52bfa55fd3234fb1fc60b7d5f549a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb62711a4dbdc149b1f788019b6b1b8a') in 0.015666 seconds
+  Import took 0.019246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_Voice01_03.ogg
+  artifactKey: Guid(21554fbce2c5f704fa8305bf041c3082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_Voice01_03.ogg using Guid(21554fbce2c5f704fa8305bf041c3082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce9a59a0d46a763d833deabf578f650') in 0.015581 seconds
+  Import took 0.018626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Creator Kit - RPG/Audio/SFX_InsideFootstep03.ogg
+  artifactKey: Guid(f87e8c2655f10d6438d911159343332c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/SFX_InsideFootstep03.ogg using Guid(f87e8c2655f10d6438d911159343332c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '859aee69c699da1e2a4abeb48c97d8d5') in 0.022056 seconds
+  Import took 0.025535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Creator Kit - RPG/Audio/show-1.ogg
+  artifactKey: Guid(46e6c79da3ec0f14f95bb09260978820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Audio/show-1.ogg using Guid(46e6c79da3ec0f14f95bb09260978820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9526a1c07ba59bf0b87125fc51455b4') in 0.015094 seconds
+  Import took 0.018453 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007438 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.303 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.5 MB.
+System memory in use after: 80.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2287.
+Total: 2.090300 ms (FindLiveObjects: 0.177400 ms CreateObjectMapping: 0.067500 ms MarkObjects: 1.814000 ms  DeleteObjects: 0.030100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007336 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.246 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.5 MB.
+System memory in use after: 80.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2290.
+Total: 2.997900 ms (FindLiveObjects: 0.396600 ms CreateObjectMapping: 0.165200 ms MarkObjects: 2.404600 ms  DeleteObjects: 0.030300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008071 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.213 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.5 MB.
+System memory in use after: 80.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2293.
+Total: 2.162100 ms (FindLiveObjects: 0.192400 ms CreateObjectMapping: 0.086600 ms MarkObjects: 1.852600 ms  DeleteObjects: 0.029100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007261 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.254 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.5 MB.
+System memory in use after: 80.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 2.224700 ms (FindLiveObjects: 0.246000 ms CreateObjectMapping: 0.071900 ms MarkObjects: 1.882100 ms  DeleteObjects: 0.023400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007813 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.180 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.5 MB.
+System memory in use after: 80.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 2.717600 ms (FindLiveObjects: 0.239600 ms CreateObjectMapping: 0.197400 ms MarkObjects: 2.254400 ms  DeleteObjects: 0.024800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007248 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.261 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.5 MB.
+System memory in use after: 80.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2302.
+Total: 2.088900 ms (FindLiveObjects: 0.183100 ms CreateObjectMapping: 0.070800 ms MarkObjects: 1.793900 ms  DeleteObjects: 0.039600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007698 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.275 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.5 MB.
+System memory in use after: 80.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2305.
+Total: 2.135600 ms (FindLiveObjects: 0.179500 ms CreateObjectMapping: 0.077900 ms MarkObjects: 1.852800 ms  DeleteObjects: 0.024200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007352 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.254 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.5 MB.
+System memory in use after: 80.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 3.106600 ms (FindLiveObjects: 0.224400 ms CreateObjectMapping: 0.140600 ms MarkObjects: 2.708200 ms  DeleteObjects: 0.032000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006568 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.339 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.5 MB.
+System memory in use after: 80.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2311.
+Total: 2.167100 ms (FindLiveObjects: 0.187300 ms CreateObjectMapping: 0.069100 ms MarkObjects: 1.885400 ms  DeleteObjects: 0.024000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007403 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.260 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.5 MB.
+System memory in use after: 80.7 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2314.
+Total: 3.100500 ms (FindLiveObjects: 0.205300 ms CreateObjectMapping: 0.072800 ms MarkObjects: 2.755100 ms  DeleteObjects: 0.065700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006680 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.215 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.5 MB.
+System memory in use after: 80.7 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2317.
+Total: 3.090100 ms (FindLiveObjects: 0.343500 ms CreateObjectMapping: 0.115700 ms MarkObjects: 2.586200 ms  DeleteObjects: 0.042500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006756 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.212 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.6 MB.
+System memory in use after: 80.7 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2320.
+Total: 2.108600 ms (FindLiveObjects: 0.178000 ms CreateObjectMapping: 0.074600 ms MarkObjects: 1.829800 ms  DeleteObjects: 0.025100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2454.935534 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/Progress Bar
+  artifactKey: Guid(8d11ead9178dee44fab0323b5e2e61b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/Progress Bar using Guid(8d11ead9178dee44fab0323b5e2e61b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1caa10fd57bf5e80fcdc7e7569b8870d') in 0.011294 seconds
+  Import took 0.015314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.543503 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/Progress Bar/NewBehaviourScript.cs
+  artifactKey: Guid(3542d6920d800bf4ab43d34e401abc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/Progress Bar/NewBehaviourScript.cs using Guid(3542d6920d800bf4ab43d34e401abc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a71dcb75ae037b0da977aa3efabc693') in 0.002983 seconds
+  Import took 0.006280 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007242 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.216 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1763 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.6 MB.
+System memory in use after: 80.7 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2324.
+Total: 2.834000 ms (FindLiveObjects: 0.193300 ms CreateObjectMapping: 0.069400 ms MarkObjects: 2.532800 ms  DeleteObjects: 0.036800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008230 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.210 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.6 MB.
+System memory in use after: 80.7 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 2.697800 ms (FindLiveObjects: 0.266600 ms CreateObjectMapping: 0.139500 ms MarkObjects: 2.245300 ms  DeleteObjects: 0.045400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.734690 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/Progress Bar/Progress Bar.cs
+  artifactKey: Guid(a7d719c87a041b44f895e6a8e71f2a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/Progress Bar/Progress Bar.cs using Guid(a7d719c87a041b44f895e6a8e71f2a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244c5772afc1740d9ccb129bb0dda8e3') in 0.007261 seconds
+  Import took 0.012706 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007850 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.410 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1763 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.6 MB.
+System memory in use after: 80.7 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2330.
+Total: 2.184100 ms (FindLiveObjects: 0.203100 ms CreateObjectMapping: 0.071600 ms MarkObjects: 1.884100 ms  DeleteObjects: 0.023900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 206.943448 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/Progress Bar/Progress Bar.cs
+  artifactKey: Guid(a7d719c87a041b44f895e6a8e71f2a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/Progress Bar/Progress Bar.cs using Guid(a7d719c87a041b44f895e6a8e71f2a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '556a38ad7a18ced2332d6f643c755e13') in 0.008455 seconds
+  Import took 0.012294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 678.858340 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/Progress Bar/ProgressBar.cs
+  artifactKey: Guid(df6807380f39bc84bafde78c019b12d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/Progress Bar/ProgressBar.cs using Guid(df6807380f39bc84bafde78c019b12d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcd2b49aecb9bf4dd5df895821ea0fe0') in 0.007964 seconds
+  Import took 0.012468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.219307 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/Progress Bar/Progress Bar.cs
+  artifactKey: Guid(a7d719c87a041b44f895e6a8e71f2a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/Progress Bar/Progress Bar.cs using Guid(a7d719c87a041b44f895e6a8e71f2a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc3f2729d4f42ced5d6e0681cc8ea3ae') in 0.007084 seconds
+  Import took 0.014857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.148676 seconds.
+  path: Assets/Creator Kit - RPG/Scripts/Progress Bar/ProgressBar.cs
+  artifactKey: Guid(df6807380f39bc84bafde78c019b12d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - RPG/Scripts/Progress Bar/ProgressBar.cs using Guid(df6807380f39bc84bafde78c019b12d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b85b0bafe7223805d7e30e9a5267b2') in 0.003356 seconds
+  Import took 0.007208 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008359 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.212 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.6 MB.
+System memory in use after: 80.7 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2332.
+Total: 2.462500 ms (FindLiveObjects: 0.181400 ms CreateObjectMapping: 0.104400 ms MarkObjects: 2.144600 ms  DeleteObjects: 0.030200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010096 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.223 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.6 MB.
+System memory in use after: 80.7 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2335.
+Total: 2.302300 ms (FindLiveObjects: 0.205500 ms CreateObjectMapping: 0.106400 ms MarkObjects: 1.956400 ms  DeleteObjects: 0.032700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
